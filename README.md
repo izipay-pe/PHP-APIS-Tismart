@@ -2,7 +2,7 @@
 
 ```sh
 instalar XAMPP https://www.apachefriends.org/
-```
+``` 
 
 #### Token y Suscription
 
