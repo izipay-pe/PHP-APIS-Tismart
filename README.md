@@ -8,19 +8,29 @@ instalar XAMPP https://www.apachefriends.org/
 
 | Métodos | Endpoints |
 | ------ | ------ |
-| Charge/CreateToken | http://localhost/api-php/createToken.php |
-| Charge/CreateSubscription | http://localhost/api-php/createSuscription.php |
-| Suscription/Get | http://localhost/api-php/getSuscription.php |
-| Subscription/Update | http://localhost/api-php/updateSuscription.php |
-| Subscription/Cancel | http://localhost/api-php/cancelSuscription.php |
+| createToken | 
+https://api.micuentaweb.pe/api-payment/V4/Charge/CreateToken |
+| createSuscription | 
+https://api.micuentaweb.pe/api-payment/V4/Charge/CreateSubscription |
+| getSuscription | 
+https://api.micuentaweb.pe/api-payment/V4/Suscription/Get |
+| updateSuscription | 
+https://api.micuentaweb.pe/api-payment/V4/Subscription/Update |
+| cancelSuscription | 
+https://api.micuentaweb.pe/api-payment/V4/Subscription/Cancel |
 
 
 #### Transaction
 
 | Métodos | Endpoints |
 | ------ | ------ |
-| Charge/CreateToken | http://localhost/api-php/createToken.php |
-| Charge/CreateSubscription | http://localhost/api-php/createSuscription.php |
-| Suscription/Get | http://localhost/api-php/getSuscription.php |
-| Subscription/Update | http://localhost/api-php/updateSuscription.php |
-| Subscription/Cancel | http://localhost/api-php/cancelSuscription.php |
+| createToken | 
+https://api.micuentaweb.pe/api-payment/V4/Charge/CreateToken |
+| createSuscription | 
+https://api.micuentaweb.pe/api-payment/V4/Charge/CreateSubscription |
+| getSuscription | 
+https://api.micuentaweb.pe/api-payment/V4/Suscription/Get |
+| updateSuscription | 
+https://api.micuentaweb.pe/api-payment/V4/Subscription/Update |
+| cancelSuscription | 
+https://api.micuentaweb.pe/api-payment/V4/Subscription/Cancel |
