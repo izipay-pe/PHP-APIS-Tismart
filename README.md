@@ -6,7 +6,7 @@ Install XAMPP https://www.apachefriends.org/
 
 Payment REST Web Services use HTTP Basic authentication to protect calls between the merchant's server and the payment platform's servers. To authenticate, you need a user account and password.
 
-This information can be retrieved in the REST API Keys tab from the Vendor Back Office
+This information can be retrieved in the REST API Keys tab of your seller back office.
 
 #### Transaction
 
