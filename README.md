@@ -1,13 +1,18 @@
-## Lista de APIs en PHP - Botón de pago Izipay
+## List of REST APIs in PHP - Izipay
 
 ```sh
-Instalar XAMPP https://www.apachefriends.org/
+Install XAMPP https://www.apachefriends.org/
 ``` 
+
+Payment REST Web Services use HTTP Basic authentication to protect calls between the merchant's server and the payment platform's servers. To authenticate, you need a user account and password.
+
+This information can be retrieved in the REST API Keys tab from the Vendor Back Office
 
 #### Transaction
 
 | Métodos | Endpoints |
 | ------ | ------ |
+| sdkTest | https://api.micuentaweb.pe/api-payment/V4/Charge/SDKTest |
 | createPayment | https://api.micuentaweb.pe/api-payment/V4/Charge/Createpayment |
 | createPaymentOrder | https://api.micuentaweb.pe/api-payment/V4/Charge/CreatePaymentOrder |
 | getPaymentOrder | https://api.micuentaweb.pe/api-payment/V4/Charge/PaymentOrder/Get |
